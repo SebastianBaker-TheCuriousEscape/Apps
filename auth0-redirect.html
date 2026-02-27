@@ -70,7 +70,7 @@ async function exchangeCode() {
         const profile = await userinfoResponse.json();
 
         // -----------------------------------------------------
-        // 6. Send tokens + profile back to App Inventor
+        // 6. Send tokens + decoded profile back to App Inventor
         // -----------------------------------------------------
         window.AppInventor.setWebViewString(JSON.stringify({
             access_token: tokens.access_token,
