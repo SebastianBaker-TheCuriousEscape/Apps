@@ -1,0 +1,1442 @@
+[
+  {
+    "card": {
+      "name": "7-Eleven",
+      "brand": "7-Eleven Australia",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/7-eleven-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/7-eleven-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Accor Hotels",
+      "brand": "Accor",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/accor-hotels-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/accor-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Adidas",
+      "brand": "Adidas AG",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/adidas-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/adidas-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Adrenaline",
+      "brand": "Big Red Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/adrenaline-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/adrenaline-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Airbnb",
+      "brand": "Airbnb Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/airbnb-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/airbnb-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Amart Furniture",
+      "brand": "Amart Furniture Pty Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/06/amart-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/06/amart-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Amazon Australia",
+      "brand": "Amazon.com, Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/amazon-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/amazon-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ampol",
+      "brand": "Ampol Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ampol-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/ampol-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Anaconda",
+      "brand": "Spotlight Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/anaconda-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/anaconda-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Apple Gift Card",
+      "brand": "Apple Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/apple-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/apple-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "ASOS",
+      "brand": "ASOS.com",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/asos-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/asos-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Baby Bunting",
+      "brand": "Baby Bunting Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/05/baby-bunting-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/05/baby-bunting-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "BCF",
+      "brand": "Super Retail Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/bcf-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/bcf-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Big W",
+      "brand": "Woolworths Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/big-w-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/big-w-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "BINGE",
+      "brand": "Streamotion",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/06/binge-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/06/binge-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Bonds",
+      "brand": "Hanesbrands",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/bonds-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/bonds-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Booktopia",
+      "brand": "Booktopia Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/booktopia-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/booktopia-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Bunnings Warehouse",
+      "brand": "Wesfarmers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/bunnings-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/bunnings-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "BWS",
+      "brand": "Endeavour Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/bws-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/bws-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Catch",
+      "brand": "Wesfarmers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/catch-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/catch-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "City Beach",
+      "brand": "City Beach Australia",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/city-beach-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/city-beach-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Coles",
+      "brand": "Coles Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/coles-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/coles-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Cotton On",
+      "brand": "Cotton On Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/cotton-on-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/cotton-on-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Country Road",
+      "brand": "Country Road Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/country-road-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/country-road-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Dan Murphy's",
+      "brand": "Endeavour Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/dan-murphys-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/dan-murphys-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "David Jones",
+      "brand": "David Jones Pty Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/david-jones-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/david-jones-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "DoorDash",
+      "brand": "DoorDash Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/doordash-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/doordash-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Dymocks",
+      "brand": "Dymocks Booksellers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/dymocks-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/dymocks-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "EB Games",
+      "brand": "GameStop",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/eb-games-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/eb-games-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Endota Spa",
+      "brand": "Endota",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/endota-spa-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/endota-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Event Cinemas",
+      "brand": "EVT Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/event-cinemas-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/event-cinemas-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Everyday Gifting",
+      "brand": "Woolworths Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2022/07/everyday-gifting-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2022/07/everyday-rewards-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Flight Centre",
+      "brand": "Flight Centre Travel Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/flight-centre-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/flight-centre-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Foot Locker",
+      "brand": "Foot Locker, Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/foot-locker-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/foot-locker-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Freedom Furniture",
+      "brand": "Greenlit Brands",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/freedom-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/freedom-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Glassons",
+      "brand": "Hallenstein Glasson",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/glassons-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/glassons-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Google Play",
+      "brand": "Google",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/google-play-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/google-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Guzman y Gomez",
+      "brand": "GYG Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/gyg-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/gyg-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "H&M",
+      "brand": "H&M Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/hm-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/hm-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Harvey Norman",
+      "brand": "Harvey Norman Holdings",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/harvey-norman-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/harvey-norman-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "IKEA",
+      "brand": "Ingka Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ikea-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/ikea-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "iTunes",
+      "brand": "Apple Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/itunes-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/apple-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "JB Hi-Fi",
+      "brand": "JB Hi-Fi Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/jb-hifi-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/jb-hifi-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "JD Sports",
+      "brand": "JD Sports Fashion plc",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/10/jd-sports-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/10/jd-sports-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Just Jeans",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/just-jeans-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/just-jeans-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Kathmandu",
+      "brand": "KMD Brands",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/kathmandu-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/kathmandu-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Kmart",
+      "brand": "Wesfarmers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/kmart-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/kmart-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Kogan.com",
+      "brand": "Kogan.com Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/kogan-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/kogan-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Lorna Jane",
+      "brand": "Lorna Jane Pty Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/lorna-jane-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/lorna-jane-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Luxury Escapes",
+      "brand": "Luxury Escapes Travel",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/luxury-escapes-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/luxury-escapes-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Macpac",
+      "brand": "Super Retail Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/macpac-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/macpac-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Mecca",
+      "brand": "Mecca Brands",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/mecca-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/mecca-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Menulog",
+      "brand": "Just Eat Takeaway",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/menulog-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/menulog-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Mimco",
+      "brand": "Country Road Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/mimco-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/mimco-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Myer",
+      "brand": "Myer Holdings",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/myer-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/myer-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Nando's",
+      "brand": "Nando's Australia",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/nandos-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/nandos-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Netflix",
+      "brand": "Netflix, Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/netflix-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/netflix-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Nike",
+      "brand": "Nike, Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/nike-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/nike-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Nintendo eShop",
+      "brand": "Nintendo",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/nintendo-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/nintendo-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Officeworks",
+      "brand": "Wesfarmers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/officeworks-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/officeworks-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "PlayStation Store",
+      "brand": "Sony Interactive Entertainment",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/playstation-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/playstation-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Priceline Pharmacy",
+      "brand": "Wesfarmers Health",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/priceline-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/priceline-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Rebel",
+      "brand": "Super Retail Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/rebel-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/rebel-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "RedBalloon",
+      "brand": "Big Red Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/redballoon-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/redballoon-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Roblox",
+      "brand": "Roblox Corporation",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/roblox-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/roblox-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Sephora",
+      "brand": "LVMH",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/sephora-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/sephora-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Spotify",
+      "brand": "Spotify AB",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/spotify-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/spotify-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Supercheap Auto",
+      "brand": "Super Retail Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/supercheap-auto-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/supercheap-auto-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Target",
+      "brand": "Wesfarmers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/target-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/target-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "TCN Eftpos",
+      "brand": "The Card Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-eftpos-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Good Guys",
+      "brand": "JB Hi-Fi Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/the-good-guys-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/the-good-guys-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Uber",
+      "brand": "Uber Technologies",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/uber-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/uber-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ultimate For Him",
+      "brand": "Blackhawk Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ultimate-him-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/blackhawk-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ultimate For Her",
+      "brand": "Blackhawk Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ultimate-her-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/blackhawk-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Village Cinemas",
+      "brand": "Village Roadshow",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/village-cinemas-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/village-cinemas-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Webjet",
+      "brand": "Webjet Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/webjet-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/webjet-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wish Gift Card",
+      "brand": "Woolworths Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wish-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/woolworths-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Woolworths Supermarket",
+      "brand": "Woolworths Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/woolworths-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/woolworths-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Xbox",
+      "brand": "Microsoft",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/xbox-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/microsoft-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Zing Pop Culture",
+      "brand": "GameStop",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zing-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zing-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Academy Brand",
+      "brand": "Academy Brand",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/academy-brand-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/academy-brand-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Adore Beauty",
+      "brand": "Adore Beauty Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/adore-beauty-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/adore-beauty-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "AFL Store",
+      "brand": "AFL",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/afl-store-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/afl-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "AutoBarn",
+      "brand": "Bapcor Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/autobarn-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/bapcor-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Barbeques Galore",
+      "brand": "Barbeques Galore",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/barbeques-galore-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/barbeques-galore-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Billabong",
+      "brand": "Boardriders, Inc.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/billabong-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/boardriders-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Bonds Baby",
+      "brand": "Hanesbrands",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/bonds-baby-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/bonds-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Brava Women's Contours",
+      "brand": "Brava",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/brava-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/brava-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "City Stationer",
+      "brand": "City Stationer",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/city-stationer-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/city-stationer-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Cue Clothing",
+      "brand": "Cue Clothing Co",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/cue-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/cue-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Drummond Golf",
+      "brand": "Drummond Golf",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/drummond-golf-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/drummond-golf-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Factorie",
+      "brand": "Cotton On Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/factorie-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/cotton-on-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "General Pants Co.",
+      "brand": "General Pants Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/general-pants-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/general-pants-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Hallenstein Brothers",
+      "brand": "Hallenstein Glasson",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/hallenstein-brothers-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/hallensteins-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Icebreaker",
+      "brand": "VF Corporation",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/icebreaker-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/vf-corp-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Intersport",
+      "brand": "Intersport Australia",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/intersport-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/intersport-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Jay Jays",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/jay-jays-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/just-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Kikki.K",
+      "brand": "Kikki.K",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/kikkik-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/kikkik-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Mosey Me",
+      "brand": "Mosey Me",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/11/mosey-me-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/11/mosey-me-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Prouds the Jewellers",
+      "brand": "James Pascoe Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/prouds-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/prouds-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Skechers",
+      "brand": "Accent Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/skechers-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/accent-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Smiggle",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/smiggle-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/smiggle-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Sniggle",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/sniggle-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/smiggle-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Sportsco",
+      "brand": "Sportsco",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/sportsco-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/sportsco-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Spotlight",
+      "brand": "Spotlight Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/spotlight-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/spotlight-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Starbucks Australia",
+      "brand": "Starbucks",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/starbucks-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/starbucks-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Steam",
+      "brand": "Valve Corporation",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/steam-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/steam-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Strandbags",
+      "brand": "Strand",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/strandbags-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/strand-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Sunglass Hut",
+      "brand": "Luxottica",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/sunglass-hut-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/luxottica-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Sussan",
+      "brand": "Sussan Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/sussan-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/sussan-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "T.M. Lewin",
+      "brand": "T.M. Lewin",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tm-lewin-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tm-lewin-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Target",
+      "brand": "Wesfarmers",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/target-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/target-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ted's Cameras",
+      "brand": "Ted's Cameras",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/teds-cameras-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/teds-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Telstra",
+      "brand": "Telstra Corporation",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/telstra-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/telstra-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Temple & Webster",
+      "brand": "Temple & Webster Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/temple-webster-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/temple-webster-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Athlete's Foot",
+      "brand": "Accent Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/athletes-foot-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/accent-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Body Shop",
+      "brand": "The Body Shop International",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/the-body-shop-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/the-body-shop-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Coffee Club",
+      "brand": "Minor DKL Food Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/the-coffee-club-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/coffee-club-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ticketmaster",
+      "brand": "Live Nation Entertainment",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ticketmaster-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/ticketmaster-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Toymate",
+      "brand": "Toymate",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/toymate-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/toymate-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Tree of Life",
+      "brand": "Tree of Life Pty Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tree-of-life-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tree-of-life-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Trenery",
+      "brand": "Country Road Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/trenery-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/country-road-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Triumph Online",
+      "brand": "Triumph International",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/triumph-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/triumph-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Tyrepower",
+      "brand": "Tyrepower Australia",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tyrepower-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tyrepower-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Universal Store",
+      "brand": "Universal Store Holdings",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/universal-store-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/universal-store-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Van Heusen",
+      "brand": "PVH Corp.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/van-heusen-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/pvh-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Voucher Express",
+      "brand": "Voucher Express",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/voucher-express-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/voucher-express-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wallace Bishop",
+      "brand": "Wallace Bishop",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wallace-bishop-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/wallace-bishop-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wattyl Paint Centres",
+      "brand": "Hempel Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wattyl-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/wattyl-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Webjet Hotel",
+      "brand": "Webjet Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/webjet-hotels-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/webjet-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "White Fox Boutique",
+      "brand": "White Fox Boutique",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/white-fox-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/white-fox-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Williams Shoes",
+      "brand": "Munro Footwear Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/williams-shoes-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/munro-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Winsor & Newton",
+      "brand": "Colart",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/winsor-newton-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/winsor-newton-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wittner",
+      "brand": "Wittner",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wittner-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/wittner-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "XBOX Live",
+      "brand": "Microsoft",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/xbox-live-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/microsoft-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Youfoodz",
+      "brand": "HelloFresh SE",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/youfoodz-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/youfoodz-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Your Restaurants",
+      "brand": "The Card Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/your-restaurants-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "ZAFUL",
+      "brand": "Wisevictory",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zaful-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zaful-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Zalora",
+      "brand": "Global Fashion Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zalora-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zalora-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Zimmermann",
+      "brand": "Zimmermann",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zimmermann-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zimmermann-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Tree of Life",
+      "brand": "Tree of Life Pty Ltd",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tree-of-life-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tree-of-life-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Trenery",
+      "brand": "Country Road Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/trenery-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/country-road-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Triumph Online",
+      "brand": "Triumph International",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/triumph-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/triumph-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Tyrepower",
+      "brand": "Tyrepower Australia",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tyrepower-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tyrepower-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Universal Store",
+      "brand": "Universal Store Holdings",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/universal-store-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/universal-store-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Van Heusen",
+      "brand": "PVH Corp.",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/van-heusen-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/pvh-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Voucher Express",
+      "brand": "Voucher Express",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/voucher-express-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/voucher-express-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wallace Bishop",
+      "brand": "Wallace Bishop",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wallace-bishop-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/wallace-bishop-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wattyl Paint Centres",
+      "brand": "Hempel Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wattyl-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/wattyl-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Webjet Hotel",
+      "brand": "Webjet Limited",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/webjet-hotels-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/webjet-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "White Fox Boutique",
+      "brand": "White Fox Boutique",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/white-fox-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/white-fox-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Williams Shoes",
+      "brand": "Munro Footwear Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/williams-shoes-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/munro-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Winsor & Newton",
+      "brand": "Colart",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/winsor-newton-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/winsor-newton-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Wittner",
+      "brand": "Wittner",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/wittner-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/wittner-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "XBOX Live",
+      "brand": "Microsoft",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/xbox-live-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/microsoft-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Youfoodz",
+      "brand": "HelloFresh SE",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/youfoodz-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/youfoodz-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Your Restaurants",
+      "brand": "The Card Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/your-restaurants-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "ZAFUL",
+      "brand": "Wisevictory",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zaful-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zaful-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Zalora",
+      "brand": "Global Fashion Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zalora-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zalora-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Zimmermann",
+      "brand": "Zimmermann",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/zimmermann-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/zimmermann-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Her Card",
+      "brand": "The Card Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-her-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Him Card",
+      "brand": "The Card Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-him-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Kids Card",
+      "brand": "The Card Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-kids-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/tcn-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ultimate Home",
+      "brand": "Blackhawk Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ultimate-home-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/blackhawk-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ultimate Kids",
+      "brand": "Blackhawk Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ultimate-kids-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/blackhawk-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Ultimate Active",
+      "brand": "Blackhawk Network",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/ultimate-active-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/blackhawk-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Adore Beauty",
+      "brand": "Adore Beauty",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/adore-beauty-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/adore-beauty-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Princess Polly",
+      "brand": "Princess Polly",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/10/princess-polly-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/10/princess-polly-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Culture Kings",
+      "brand": "a.k.a. Brands",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/culture-kings-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/culture-kings-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "The Oodie",
+      "brand": "The Oodie",
+      "image": "https://gcdb.com.au/wp-content/uploads/2022/11/the-oodie-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2022/11/the-oodie-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Platypus Shoes",
+      "brand": "Accent Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/platypus-shoes-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/accent-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Hype DC",
+      "brand": "Accent Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/hype-dc-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/accent-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Peter Alexander",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/peter-alexander-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/just-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Dotti",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/dotti-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/just-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Portmans",
+      "brand": "The Just Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/portmans-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/just-group-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Sportsgirl",
+      "brand": "Sussan Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/sportsgirl-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/sportsgirl-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Supre",
+      "brand": "Cotton On Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/supre-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/cotton-on-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Typo",
+      "brand": "Cotton On Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/typo-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/cotton-on-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Everyday Rewards",
+      "brand": "Woolworths Group",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/everyday-rewards-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/everyday-rewards-logo.png"
+    }
+  },
+  {
+    "card": {
+      "name": "Flybuys",
+      "brand": "Loyalty Pacific",
+      "image": "https://gcdb.com.au/wp-content/uploads/2021/04/flybuys-gift-card.jpg",
+      "brand image": "https://gcdb.com.au/wp-content/uploads/2021/04/flybuys-logo.png"
+    }
+  }
+]
